@@ -1,0 +1,4366 @@
+{
+    "STILL": {
+        "2024-01-23": {
+            "exhibition": false,
+            "strategies": {
+                "Best_Letter_Word": {
+                    "solved": true,
+                    "attempts": 5,
+                    "analytics": [
+                        {
+                            "guessed_word": "TRACE",
+                            "previous_solutions_length": 15896,
+                            "new_solutions_length": 556,
+                            "reduced_words": "96%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?nnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        1
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "c": [
+                                        3
+                                    ],
+                                    "e": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "t": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SHIFT",
+                            "previous_solutions_length": 555,
+                            "new_solutions_length": 15,
+                            "reduced_words": "97%",
+                            "time_to_generate_word_ns": 12418000,
+                            "feedback": "ynyn?",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        1
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "c": [
+                                        3
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "t": [
+                                        0,
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SKITS",
+                            "previous_solutions_length": 14,
+                            "new_solutions_length": 6,
+                            "reduced_words": "57%",
+                            "time_to_generate_word_ns": 4014800,
+                            "feedback": "yny?n",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        1
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "c": [
+                                        3
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "t": [
+                                        0,
+                                        4,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "s": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "STILB",
+                            "previous_solutions_length": 5,
+                            "new_solutions_length": 1,
+                            "reduced_words": "80%",
+                            "time_to_generate_word_ns": 3633500,
+                            "feedback": "yyyyn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        1
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "c": [
+                                        3
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "b": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "t": [
+                                        0,
+                                        4,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "s": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "STILL",
+                            "previous_solutions_length": 0,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 5103900,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        1
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "c": [
+                                        3
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "b": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "t": [
+                                        0,
+                                        4,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "s": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Bottom_Most": {
+                    "solved": true,
+                    "attempts": 4,
+                    "analytics": [
+                        {
+                            "guessed_word": "ZULUS",
+                            "previous_solutions_length": 15896,
+                            "new_solutions_length": 324,
+                            "reduced_words": "97%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nn?n?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "VASAL",
+                            "previous_solutions_length": 323,
+                            "new_solutions_length": 44,
+                            "reduced_words": "86%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nn?ny",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ],
+                                    "s": [
+                                        4,
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SWIRL",
+                            "previous_solutions_length": 43,
+                            "new_solutions_length": 6,
+                            "reduced_words": "86%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynyny",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "w": [
+                                        1
+                                    ],
+                                    "r": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ],
+                                    "s": [
+                                        4,
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "STILL",
+                            "previous_solutions_length": 5,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "w": [
+                                        1
+                                    ],
+                                    "r": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ],
+                                    "s": [
+                                        4,
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                },
+                "Mid": {
+                    "solved": true,
+                    "attempts": 6,
+                    "analytics": [
+                        {
+                            "guessed_word": "LAEVO",
+                            "previous_solutions_length": 15895,
+                            "new_solutions_length": 440,
+                            "reduced_words": "97%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?nnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "KYLIX",
+                            "previous_solutions_length": 439,
+                            "new_solutions_length": 92,
+                            "reduced_words": "79%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nn??n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "x": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "i": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "GUILD",
+                            "previous_solutions_length": 91,
+                            "new_solutions_length": 20,
+                            "reduced_words": "78%",
+                            "time_to_generate_word_ns": 55300,
+                            "feedback": "nnyyn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "i",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "x": [
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "i": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "STILB",
+                            "previous_solutions_length": 19,
+                            "new_solutions_length": 2,
+                            "reduced_words": "89%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "x": [
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "i": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "STILT",
+                            "previous_solutions_length": 1,
+                            "new_solutions_length": 1,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "x": [
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        4
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "i": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "t": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "STILL",
+                            "previous_solutions_length": 0,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        2
+                                    ],
+                                    "v": [
+                                        3
+                                    ],
+                                    "o": [
+                                        4
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "x": [
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        4
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "i": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "t": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Random": {
+                    "solved": false,
+                    "attempts": 6,
+                    "analytics": [
+                        {
+                            "guessed_word": "BALSA",
+                            "previous_solutions_length": 15896,
+                            "new_solutions_length": 425,
+                            "reduced_words": "97%",
+                            "time_to_generate_word_ns": 998300,
+                            "feedback": "nn??n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ],
+                                    "s": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "GLOWS",
+                            "previous_solutions_length": 424,
+                            "new_solutions_length": 86,
+                            "reduced_words": "79%",
+                            "time_to_generate_word_ns": 501200,
+                            "feedback": "n?nn?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "o": [
+                                        2
+                                    ],
+                                    "w": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        1
+                                    ],
+                                    "s": [
+                                        3,
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SIDLE",
+                            "previous_solutions_length": 81,
+                            "new_solutions_length": 9,
+                            "reduced_words": "88%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "y?nyn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "o": [
+                                        2
+                                    ],
+                                    "w": [
+                                        3
+                                    ],
+                                    "d": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        1
+                                    ],
+                                    "s": [
+                                        3,
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SHILL",
+                            "previous_solutions_length": 8,
+                            "new_solutions_length": 3,
+                            "reduced_words": "62%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "o": [
+                                        2
+                                    ],
+                                    "w": [
+                                        3
+                                    ],
+                                    "d": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        1
+                                    ],
+                                    "s": [
+                                        3,
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SPILL",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 2,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "o": [
+                                        2
+                                    ],
+                                    "w": [
+                                        3
+                                    ],
+                                    "d": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "p": [
+                                        1
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        1
+                                    ],
+                                    "s": [
+                                        3,
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SKILL",
+                            "previous_solutions_length": 1,
+                            "new_solutions_length": 1,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "b": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1,
+                                        4
+                                    ],
+                                    "g": [
+                                        0
+                                    ],
+                                    "o": [
+                                        2
+                                    ],
+                                    "w": [
+                                        3
+                                    ],
+                                    "d": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "p": [
+                                        1
+                                    ],
+                                    "k": [
+                                        1
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        1
+                                    ],
+                                    "s": [
+                                        3,
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                },
+                "Top_Most": {
+                    "solved": true,
+                    "attempts": 6,
+                    "analytics": [
+                        {
+                            "guessed_word": "AAHED",
+                            "previous_solutions_length": 15896,
+                            "new_solutions_length": 2891,
+                            "reduced_words": "81%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BIBBS",
+                            "previous_solutions_length": 2890,
+                            "new_solutions_length": 170,
+                            "reduced_words": "94%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n?nn?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2,
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "CRISP",
+                            "previous_solutions_length": 169,
+                            "new_solutions_length": 40,
+                            "reduced_words": "76%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nny?n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "i",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "p": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SKIFF",
+                            "previous_solutions_length": 39,
+                            "new_solutions_length": 23,
+                            "reduced_words": "41%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynynn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3,
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "SLILY",
+                            "previous_solutions_length": 22,
+                            "new_solutions_length": 3,
+                            "reduced_words": "86%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "y?yyn",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "",
+                                    "i",
+                                    "l",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3,
+                                        4
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4,
+                                        3
+                                    ],
+                                    "l": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "STILL",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "s",
+                                    "t",
+                                    "i",
+                                    "l",
+                                    "l"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "k": [
+                                        1
+                                    ],
+                                    "f": [
+                                        3,
+                                        4
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4,
+                                        3
+                                    ],
+                                    "l": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "RELIC": {
+        "2024-01-24": {
+            "best_attempt": "Best_Letter_Word",
+            "best_average_reduced_words": "Best_Letter_Word",
+            "best_average_time_to_generate_word_ns": "Bottom_Most",
+            "ranking": [
+                "Best_Letter_Word",
+                "Top_Score",
+                "Random",
+                "Mid",
+                "Bottom_Most",
+                "Top_Most"
+            ],
+            "strategies": {
+                "Bottom_Most": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 5,
+                    "average_reduced_words_exact": 0.8704817312879211,
+                    "average_reduced_words": "87%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "ZULUS",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 562,
+                            "reduced_words": "96%",
+                            "reduced_words_exact": 0.9645671773532564,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnynn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "l",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "XYLOL",
+                            "previous_solutions_length": 561,
+                            "new_solutions_length": 216,
+                            "reduced_words": "61%",
+                            "reduced_words_exact": 0.6149732620320856,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnynn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "l",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "x": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "l": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {
+                                    "l": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "WILGA",
+                            "previous_solutions_length": 215,
+                            "new_solutions_length": 13,
+                            "reduced_words": "93%",
+                            "reduced_words_exact": 0.9395348837209302,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n?ynn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "l",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "x": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "l": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "g": [
+                                        3
+                                    ],
+                                    "a": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "l": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "TELIC",
+                            "previous_solutions_length": 12,
+                            "new_solutions_length": 2,
+                            "reduced_words": "83%",
+                            "reduced_words_exact": 0.8333333333333334,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "x": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "l": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "g": [
+                                        3
+                                    ],
+                                    "a": [
+                                        4
+                                    ],
+                                    "t": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "l": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 1,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "x": [
+                                        0
+                                    ],
+                                    "y": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "l": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "g": [
+                                        3
+                                    ],
+                                    "a": [
+                                        4
+                                    ],
+                                    "t": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "l": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Best_Letter_Word": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 4,
+                    "average_reduced_words_exact": 0.9178741294842166,
+                    "average_reduced_words": "91%",
+                    "average_time_to_generate_word_ns": 3013000,
+                    "analytics": [
+                        {
+                            "guessed_word": "SAREE",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 191,
+                            "reduced_words": "98%",
+                            "reduced_words_exact": 0.9879578841182776,
+                            "time_to_generate_word_ns": 5996000,
+                            "feedback": "nn??n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "r": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "BEVOR",
+                            "previous_solutions_length": 190,
+                            "new_solutions_length": 48,
+                            "reduced_words": "74%",
+                            "reduced_words_exact": 0.7473684210526316,
+                            "time_to_generate_word_ns": 2020600,
+                            "feedback": "nynn?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0
+                                    ],
+                                    "v": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "r": [
+                                        2,
+                                        4
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "DECRY",
+                            "previous_solutions_length": 47,
+                            "new_solutions_length": 3,
+                            "reduced_words": "93%",
+                            "reduced_words_exact": 0.9361702127659575,
+                            "time_to_generate_word_ns": 3019800,
+                            "feedback": "ny??n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0
+                                    ],
+                                    "v": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "d": [
+                                        0
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "r": [
+                                        2,
+                                        4,
+                                        3
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 1015600,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "e": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0
+                                    ],
+                                    "v": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "d": [
+                                        0
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "r": [
+                                        2,
+                                        4,
+                                        3
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Random": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 4,
+                    "average_reduced_words_exact": 0.889536997772898,
+                    "average_reduced_words": "88%",
+                    "average_time_to_generate_word_ns": 261550,
+                    "analytics": [
+                        {
+                            "guessed_word": "HUNKY",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 5824,
+                            "reduced_words": "63%",
+                            "reduced_words_exact": 0.632810037198159,
+                            "time_to_generate_word_ns": 1046200,
+                            "feedback": "nnnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "h": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "FLAMS",
+                            "previous_solutions_length": 5822,
+                            "new_solutions_length": 297,
+                            "reduced_words": "94%",
+                            "reduced_words_exact": 0.9489866025420818,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n?nnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "h": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ],
+                                    "y": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "m": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "PILOT",
+                            "previous_solutions_length": 296,
+                            "new_solutions_length": 7,
+                            "reduced_words": "97%",
+                            "reduced_words_exact": 0.9763513513513513,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n?ynn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "l",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "h": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ],
+                                    "y": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "m": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "p": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        1
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 6,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "h": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ],
+                                    "y": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "a": [
+                                        2
+                                    ],
+                                    "m": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "p": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        1
+                                    ],
+                                    "i": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                },
+                "Mid": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 4,
+                    "average_reduced_words_exact": 0.8678969587535904,
+                    "average_reduced_words": "86%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "LAHAR",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 174,
+                            "reduced_words": "98%",
+                            "reduced_words_exact": 0.9890296954794779,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?nnn?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "h": [
+                                        2
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ],
+                                    "r": [
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "ORLES",
+                            "previous_solutions_length": 172,
+                            "new_solutions_length": 3,
+                            "reduced_words": "98%",
+                            "reduced_words_exact": 0.9825581395348837,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n?y?n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "l",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "o": [
+                                        0
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ],
+                                    "r": [
+                                        4,
+                                        1
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIT",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 1,
+                            "reduced_words": "50%",
+                            "reduced_words_exact": 0.5,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyn",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "o": [
+                                        0
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ],
+                                    "r": [
+                                        4,
+                                        1
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 0,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "o": [
+                                        0
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ],
+                                    "r": [
+                                        4,
+                                        1
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                },
+                "Top_Most": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 5,
+                    "average_reduced_words_exact": 0.8427974309893527,
+                    "average_reduced_words": "84%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "AAHED",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 1907,
+                            "reduced_words": "87%",
+                            "reduced_words_exact": 0.8797679843641637,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnn?n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BEBOP",
+                            "previous_solutions_length": 1906,
+                            "new_solutions_length": 461,
+                            "reduced_words": "75%",
+                            "reduced_words_exact": 0.7581322140608604,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nynnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "p": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "CECUM",
+                            "previous_solutions_length": 460,
+                            "new_solutions_length": 11,
+                            "reduced_words": "97%",
+                            "reduced_words_exact": 0.9760869565217392,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?ynnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "c": [
+                                        2
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "m": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        3
+                                    ],
+                                    "c": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "FENCE",
+                            "previous_solutions_length": 10,
+                            "new_solutions_length": 4,
+                            "reduced_words": "60%",
+                            "reduced_words_exact": 0.6,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyn?n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "e",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "c": [
+                                        2
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "m": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        3
+                                    ],
+                                    "c": [
+                                        0,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null,
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 3,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "b": [
+                                        0,
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "p": [
+                                        4
+                                    ],
+                                    "c": [
+                                        2
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "m": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "e": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        3
+                                    ],
+                                    "c": [
+                                        0,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null,
+                                    "e": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Top_Score": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 4,
+                    "average_reduced_words_exact": 0.8916780836110374,
+                    "average_reduced_words": "89%",
+                    "average_time_to_generate_word_ns": 3955499175,
+                    "analytics": [
+                        {
+                            "guessed_word": "EASES",
+                            "previous_solutions_length": 15861,
+                            "new_solutions_length": 1320,
+                            "reduced_words": "91%",
+                            "reduced_words_exact": 0.9167770001891432,
+                            "time_to_generate_word_ns": 14561991200,
+                            "feedback": "?nnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "e": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "OORIE",
+                            "previous_solutions_length": 1319,
+                            "new_solutions_length": 35,
+                            "reduced_words": "97%",
+                            "reduced_words_exact": 0.9734647460197119,
+                            "time_to_generate_word_ns": 1247958000,
+                            "feedback": "nn?y?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "i",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "o": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        0,
+                                        4
+                                    ],
+                                    "r": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "RETIN",
+                            "previous_solutions_length": 34,
+                            "new_solutions_length": 11,
+                            "reduced_words": "67%",
+                            "reduced_words_exact": 0.6764705882352942,
+                            "time_to_generate_word_ns": 12047500,
+                            "feedback": "yynyn",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "",
+                                    "i",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "o": [
+                                        0,
+                                        1
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        0,
+                                        4
+                                    ],
+                                    "r": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "RELIC",
+                            "previous_solutions_length": 10,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "r",
+                                    "e",
+                                    "l",
+                                    "i",
+                                    "c"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "o": [
+                                        0,
+                                        1
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "e": [
+                                        0,
+                                        4
+                                    ],
+                                    "r": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "e": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "BLOCK": {
+        "2024-01-25": {
+            "best_attempt": "Best_Letter_Word",
+            "best_average_reduced_words": "Random",
+            "best_average_time_to_generate_word_ns": "Bottom_Most",
+            "ranking": [
+                "Random",
+                "Best_Letter_Word",
+                "Top_Most",
+                "Top_Score",
+                "Mid",
+                "Bottom_Most"
+            ],
+            "strategies": {
+                "Best_Letter_Word": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 3,
+                    "average_reduced_words_exact": 0.9656298187393028,
+                    "average_reduced_words": "96%",
+                    "average_time_to_generate_word_ns": 4334266,
+                    "analytics": [
+                        {
+                            "guessed_word": "SAREE",
+                            "previous_solutions_length": 15845,
+                            "new_solutions_length": 1594,
+                            "reduced_words": "89%",
+                            "reduced_words_exact": 0.8994004417797412,
+                            "time_to_generate_word_ns": 9132600,
+                            "feedback": "nnnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "r": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3,
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BHOOT",
+                            "previous_solutions_length": 1593,
+                            "new_solutions_length": 4,
+                            "reduced_words": "99%",
+                            "reduced_words_exact": 0.997489014438167,
+                            "time_to_generate_word_ns": 3870200,
+                            "feedback": "ynynn",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "",
+                                    "o",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "r": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3,
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "BLOCK",
+                            "previous_solutions_length": 3,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "s": [
+                                        0
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "r": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3,
+                                        4
+                                    ],
+                                    "h": [
+                                        1
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "t": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Bottom_Most": {
+                    "solved": false,
+                    "exhibition": false,
+                    "attempts": 6,
+                    "average_reduced_words_exact": 0.8715886070538442,
+                    "average_reduced_words": "87%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "ZULUS",
+                            "previous_solutions_length": 15845,
+                            "new_solutions_length": 1562,
+                            "reduced_words": "90%",
+                            "reduced_words_exact": 0.9014200063111392,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nn?nn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "WRYLY",
+                            "previous_solutions_length": 1561,
+                            "new_solutions_length": 749,
+                            "reduced_words": "52%",
+                            "reduced_words_exact": 0.5201793721973094,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnn?n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "y": [
+                                        2,
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "VOCAL",
+                            "previous_solutions_length": 748,
+                            "new_solutions_length": 19,
+                            "reduced_words": "97%",
+                            "reduced_words_exact": 0.9745989304812834,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "n??n?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "y": [
+                                        2,
+                                        4
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        3,
+                                        4
+                                    ],
+                                    "o": [
+                                        1
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "PLOCK",
+                            "previous_solutions_length": 18,
+                            "new_solutions_length": 3,
+                            "reduced_words": "83%",
+                            "reduced_words_exact": 0.8333333333333334,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "y": [
+                                        2,
+                                        4
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        3
+                                    ],
+                                    "p": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        3,
+                                        4
+                                    ],
+                                    "o": [
+                                        1
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "FLOCK",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 2,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "y": [
+                                        2,
+                                        4
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        3
+                                    ],
+                                    "p": [
+                                        0
+                                    ],
+                                    "f": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        3,
+                                        4
+                                    ],
+                                    "o": [
+                                        1
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "CLOCK",
+                            "previous_solutions_length": 1,
+                            "new_solutions_length": 1,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "z": [
+                                        0
+                                    ],
+                                    "u": [
+                                        1,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "w": [
+                                        0
+                                    ],
+                                    "r": [
+                                        1
+                                    ],
+                                    "y": [
+                                        2,
+                                        4
+                                    ],
+                                    "v": [
+                                        0
+                                    ],
+                                    "a": [
+                                        3
+                                    ],
+                                    "p": [
+                                        0
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "c": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        2,
+                                        3,
+                                        4
+                                    ],
+                                    "o": [
+                                        1
+                                    ],
+                                    "c": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Mid": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 6,
+                    "average_reduced_words_exact": 0.9223526263720331,
+                    "average_reduced_words": "92%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "LAGAN",
+                            "previous_solutions_length": 15845,
+                            "new_solutions_length": 1333,
+                            "reduced_words": "91%",
+                            "reduced_words_exact": 0.9158725149889555,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?nnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "KILOS",
+                            "previous_solutions_length": 1332,
+                            "new_solutions_length": 9,
+                            "reduced_words": "99%",
+                            "reduced_words_exact": 0.9932432432432432,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?n??n",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "FLOCK",
+                            "previous_solutions_length": 8,
+                            "new_solutions_length": 3,
+                            "reduced_words": "62%",
+                            "reduced_words_exact": 0.625,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "CLOCK",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 2,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "c": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "PLOCK",
+                            "previous_solutions_length": 1,
+                            "new_solutions_length": 1,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "p": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "BLOCK",
+                            "previous_solutions_length": 0,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        1,
+                                        3
+                                    ],
+                                    "g": [
+                                        2
+                                    ],
+                                    "n": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "f": [
+                                        0
+                                    ],
+                                    "c": [
+                                        0
+                                    ],
+                                    "p": [
+                                        0
+                                    ]
+                                },
+                                "potentials": {
+                                    "l": [
+                                        0,
+                                        2
+                                    ],
+                                    "k": [
+                                        0
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "c": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Random": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 3,
+                    "average_reduced_words_exact": 0.9892260349215664,
+                    "average_reduced_words": "98%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "REBUS",
+                            "previous_solutions_length": 15844,
+                            "new_solutions_length": 298,
+                            "reduced_words": "98%",
+                            "reduced_words_exact": 0.9811916182782126,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nn?nn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        0
+                                    ],
+                                    "e": [
+                                        1
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "b": [
+                                        2
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BANKY",
+                            "previous_solutions_length": 296,
+                            "new_solutions_length": 4,
+                            "reduced_words": "98%",
+                            "reduced_words_exact": 0.9864864864864865,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynn?n",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        0
+                                    ],
+                                    "e": [
+                                        1
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "b": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BLOCK",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "r": [
+                                        0
+                                    ],
+                                    "e": [
+                                        1
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "n": [
+                                        2
+                                    ],
+                                    "y": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "b": [
+                                        2
+                                    ],
+                                    "k": [
+                                        3
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        }
+                    ]
+                },
+                "Top_Most": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 3,
+                    "average_reduced_words_exact": 0.9288943745265641,
+                    "average_reduced_words": "92%",
+                    "average_time_to_generate_word_ns": 0,
+                    "analytics": [
+                        {
+                            "guessed_word": "AAHED",
+                            "previous_solutions_length": 15845,
+                            "new_solutions_length": 2879,
+                            "reduced_words": "81%",
+                            "reduced_words_exact": 0.8183023035657936,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "nnnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "BIBBS",
+                            "previous_solutions_length": 2878,
+                            "new_solutions_length": 91,
+                            "reduced_words": "96%",
+                            "reduced_words_exact": 0.9683808200138986,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "ynnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "b": [
+                                        2,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {
+                                    "b": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "BLOCK",
+                            "previous_solutions_length": 90,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "a": [
+                                        0,
+                                        1
+                                    ],
+                                    "h": [
+                                        2
+                                    ],
+                                    "e": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ],
+                                    "i": [
+                                        1
+                                    ],
+                                    "b": [
+                                        2,
+                                        3
+                                    ],
+                                    "s": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {
+                                    "b": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "Top_Score": {
+                    "solved": true,
+                    "exhibition": false,
+                    "attempts": 5,
+                    "average_reduced_words_exact": 0.8987873066721883,
+                    "average_reduced_words": "89%",
+                    "average_time_to_generate_word_ns": 1279453360,
+                    "analytics": [
+                        {
+                            "guessed_word": "EASES",
+                            "previous_solutions_length": 15845,
+                            "new_solutions_length": 2312,
+                            "reduced_words": "85%",
+                            "reduced_words_exact": 0.8540864626065005,
+                            "time_to_generate_word_ns": 5292439800,
+                            "feedback": "nnnnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "e": [
+                                        0,
+                                        3
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ]
+                                },
+                                "potentials": {},
+                                "multiples": {},
+                                "non_multiples": {}
+                            }
+                        },
+                        {
+                            "guessed_word": "ROTOR",
+                            "previous_solutions_length": 2311,
+                            "new_solutions_length": 149,
+                            "reduced_words": "93%",
+                            "reduced_words_exact": 0.9355257464301169,
+                            "time_to_generate_word_ns": 1092007500,
+                            "feedback": "n?nnn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "e": [
+                                        0,
+                                        3
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "r": [
+                                        0,
+                                        4
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "o": [
+                                        1
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "IMINO",
+                            "previous_solutions_length": 148,
+                            "new_solutions_length": 26,
+                            "reduced_words": "82%",
+                            "reduced_words_exact": 0.8243243243243243,
+                            "time_to_generate_word_ns": 12819500,
+                            "feedback": "nnnn?",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "e": [
+                                        0,
+                                        3
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "r": [
+                                        0,
+                                        4
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "i": [
+                                        0,
+                                        2
+                                    ],
+                                    "m": [
+                                        1
+                                    ],
+                                    "n": [
+                                        3
+                                    ]
+                                },
+                                "potentials": {
+                                    "o": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "CLOUD",
+                            "previous_solutions_length": 25,
+                            "new_solutions_length": 3,
+                            "reduced_words": "88%",
+                            "reduced_words_exact": 0.88,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "?yynn",
+                            "solution_data": {
+                                "solution": [
+                                    "",
+                                    "l",
+                                    "o",
+                                    "",
+                                    ""
+                                ],
+                                "invalid_chars": {
+                                    "e": [
+                                        0,
+                                        3
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "r": [
+                                        0,
+                                        4
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "i": [
+                                        0,
+                                        2
+                                    ],
+                                    "m": [
+                                        1
+                                    ],
+                                    "n": [
+                                        3
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "o": [
+                                        1,
+                                        4
+                                    ],
+                                    "c": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        },
+                        {
+                            "guessed_word": "BLOCK",
+                            "previous_solutions_length": 2,
+                            "new_solutions_length": 0,
+                            "reduced_words": "100%",
+                            "reduced_words_exact": 1.0,
+                            "time_to_generate_word_ns": 0,
+                            "feedback": "yyyyy",
+                            "solution_data": {
+                                "solution": [
+                                    "b",
+                                    "l",
+                                    "o",
+                                    "c",
+                                    "k"
+                                ],
+                                "invalid_chars": {
+                                    "e": [
+                                        0,
+                                        3
+                                    ],
+                                    "a": [
+                                        1
+                                    ],
+                                    "s": [
+                                        2,
+                                        4
+                                    ],
+                                    "r": [
+                                        0,
+                                        4
+                                    ],
+                                    "t": [
+                                        2
+                                    ],
+                                    "o": [
+                                        3
+                                    ],
+                                    "i": [
+                                        0,
+                                        2
+                                    ],
+                                    "m": [
+                                        1
+                                    ],
+                                    "n": [
+                                        3
+                                    ],
+                                    "u": [
+                                        3
+                                    ],
+                                    "d": [
+                                        4
+                                    ]
+                                },
+                                "potentials": {
+                                    "o": [
+                                        1,
+                                        4
+                                    ],
+                                    "c": [
+                                        0
+                                    ]
+                                },
+                                "multiples": {},
+                                "non_multiples": {
+                                    "o": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
