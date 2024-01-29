@@ -353,7 +353,6 @@ aimed
 aimee
 aimer
 ainee
-ainoi
 ainus
 aioli
 ayond
@@ -804,11 +803,8 @@ arake
 araks
 aramu
 arank
-arara
 araru
-arase
 arati
-araua
 arawa
 arber
 arbor
@@ -936,7 +932,6 @@ arvel
 arvos
 arzan
 arzun
-asale
 asana
 asaph
 asarh
@@ -2439,7 +2434,6 @@ capel
 caper
 capes
 caphs
-capoc
 capon
 capos
 capot
@@ -2868,7 +2862,6 @@ claik
 claim
 clair
 clays
-clake
 clamb
 clame
 clamp
@@ -3664,8 +3657,6 @@ decry
 decus
 dedal
 dedan
-deddy
-dedit
 deedy
 deeds
 deems
@@ -3677,7 +3668,6 @@ defat
 defer
 defet
 defis
-defix
 defog
 degas
 degum
@@ -4188,7 +4178,6 @@ duads
 duala
 duali
 duals
-duane
 duant
 dubba
 dubby
@@ -5136,7 +5125,6 @@ flush
 flusk
 flute
 fluty
-fname
 fnese
 foaly
 foals
@@ -8128,7 +8116,6 @@ lendu
 lenes
 lenin
 lenis
-lenny
 lenos
 lense
 lenth
@@ -8139,7 +8126,6 @@ lepal
 lepas
 leper
 lepid
-leppy
 lepra
 lepre
 lepry
@@ -8861,7 +8847,6 @@ meeks
 meese
 meeth
 meets
-meggy
 meiji
 meile
 meiny
@@ -10678,7 +10663,6 @@ plasm
 plass
 plate
 platy
-plato
 plats
 platt
 plaud
@@ -10691,14 +10675,12 @@ plebs
 pleck
 pleis
 plena
-pleny
 pleon
 plica
 plied
 plier
 plyer
 plies
-pliny
 plink
 pliss
 ploat
@@ -12198,7 +12180,6 @@ seams
 seary
 sears
 seats
-seave
 seavy
 sebat
 sebum
@@ -12808,7 +12789,6 @@ slite
 slits
 slive
 sloan
-sloat
 slobs
 sloes
 slogs
@@ -12888,7 +12868,6 @@ smous
 smout
 smrgs
 smurr
-smuse
 smush
 smuts
 snack
@@ -12898,7 +12877,6 @@ snags
 snail
 snake
 snaky
-snape
 snapy
 snaps
 snare
@@ -13136,14 +13114,12 @@ spass
 spate
 spath
 spats
-spave
 spawl
 spawn
 speak
 speal
 spean
 spear
-spece
 speck
 specs
 spect
@@ -13911,7 +13887,6 @@ telic
 telyn
 telly
 tells
-tellt
 teloi
 telos
 teman
@@ -13980,7 +13955,6 @@ tetel
 teths
 teton
 tetra
-tetty
 tetum
 teuch
 teugh
