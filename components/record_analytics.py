@@ -37,7 +37,7 @@ def record_analytics(word: str, strategies: dict[str: Strategy], analytics: dict
 
     analytics = analyze_results(word, analytics, now)
 
-    json.dump(analytics, open(fr"{os.path.dirname(__file__)}\..\assets\analytics.json", "w"), indent=4)
+    json.dump(analytics, open(fr"{os.path.dirname(__file__)}\..\assets\analytics.json", "w"))
 
     return analytics
 
