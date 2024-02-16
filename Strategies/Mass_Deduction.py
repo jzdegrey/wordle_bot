@@ -7,7 +7,7 @@ from Strategies.strategy_abc import Strategy
 
 class Mass_Deduction(Strategy):
     def _generate_new_word(self):
-        if self.attempts == 0: return self.suggested_first_word if self.suggested_first_word else "cages"
+        if self.attempts == 0: return self.suggested_first_word if self.suggested_first_word else "fanes"
         mass_reduced_word = self.solutions[0]
         reduced_words = 0.0
         word_score = 0
