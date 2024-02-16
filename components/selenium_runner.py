@@ -66,14 +66,19 @@ def get_feedback(browser, root, attempt):
             else:
                 feedback += "x"
 
-    if feedback == "xxxxx":
-        for _ in range(5):
-            root.send_keys(Keys.BACKSPACE)
-        return None, False
-    elif "x" in feedback or len(feedback) != 5:
-        raise RuntimeError("Something went wrong. Please check and try again.")
-    else:
-        return feedback, True
+    for _ in range(2):
+        if feedback == "xxxxx":
+            for _ in range(5):
+                root.send_keys(Keys.BACKSPACE)
+            return None, False
+        elif "x" in feedback or len(feedback) != 5:
+            time.sleep(2)
+            close_module(browser)
+            time.sleep(2)
+        else:
+            return feedback, True
+
+    raise RuntimeError("Something went wrong. Please check and try again.")
 
 
 def get_correct_word(browser):

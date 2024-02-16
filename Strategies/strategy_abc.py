@@ -258,3 +258,13 @@ class Strategy(ABC):
                 finds += 1
                 if finds > offset: break
         return found_word
+
+    @staticmethod
+    def _generate_word_complexity(word: str):
+        word_complexity = 5
+        for i in range(len(word) - 1):
+            for j in range(i + 1, len(word)):
+                if word[i] == word[j]:
+                    word_complexity -= 1
+                    break
+        return word_complexity

@@ -1,9 +1,19 @@
 import sys, os
+
 sys.path.append(rf'{os.path.abspath("..")}')
 from Strategies.strategy_abc import Strategy
 
 
-class Top_Score(Strategy):
+class Scrabble(Strategy):
+    __letter_values = {
+        "a": 1, "b": 3, "c": 3, "d": 2, "e": 1,
+        "f": 4, "g": 2, "h": 4, "i": 1, "j": 8,
+        "k": 5, "l": 1, "m": 3, "n": 1, "o": 1,
+        "p": 3, "q": 10, "r": 1, "s": 1, "t": 1,
+        "u": 1, "v": 4, "w": 4, "x": 8, "y": 4,
+        "z": 10
+    }
+
     def __init__(
             self,
             name: str,
@@ -22,20 +32,12 @@ class Top_Score(Strategy):
         self.__word_scores = self.__score_words()
 
     def __score_words(self):
-        char_scores = {}
         word_scores = {}
         for word in self.solutions:
             word_score = 0
             for char in word:
-                char_score = char_scores.get(char)
-                if not char_score:
-                    char_positions = self.word_permutations.get(char)
-                    char_score = 0
-                    for _v in char_positions.values(): char_score += _v
-                    char_scores |= {char: char_score}
-                word_score += char_score
+                word_score += self.__letter_values.get(char.lower(), 0)
             word_scores |= {word: word_score}
-
         return word_scores
 
     def _generate_new_word(self):
@@ -46,7 +48,7 @@ class Top_Score(Strategy):
         for score_word, word_score in self.__word_scores.items():
             if score_word in self.solutions:
                 word_complexity = self._generate_word_complexity(score_word)
-                if word_complexity > high_word_complexity or (word_score > high_word_score and word_complexity >= high_word_complexity):
+                if word_complexity > high_word_complexity or (word_score < high_word_score and word_complexity >= high_word_complexity):
                     high_score_word = score_word
                     high_word_score = word_score
                     high_word_complexity = word_complexity
