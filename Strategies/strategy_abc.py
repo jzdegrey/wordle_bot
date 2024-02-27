@@ -137,6 +137,11 @@ class Strategy(ABC):
             feedback_char = feedback[i].lower()
             if feedback_char == "y":
                 self._solution.solution[i] = char
+                count = 0
+                for solution_char in self._solution.solution:
+                    if solution_char == char: count += 1
+                if count > 1 and char not in self._solution.multiples.keys():
+                    self._solution.multiples.update({char: None})
             elif feedback_char == 'n':
                 if char in self._solution.invalid_chars.keys():
                     self._solution.invalid_chars[char].append(i)
@@ -145,6 +150,8 @@ class Strategy(ABC):
 
                 if char in self._solution.solution or char in round_potentials.keys():
                     self._solution.non_multiples.update({char: None})
+                    if char in self._solution.invalid_chars:
+                        self._solution.invalid_chars.pop(char)
             else:
                 if char in self._solution.potentials.keys():
                     self._solution.potentials[char].append(i)
@@ -209,7 +216,7 @@ class Strategy(ABC):
                     if char == non_multiple:
                         count += 1
                     if char in self._solution.multiples.keys(): in_multiple = True
-                if (in_multiple and count > 3) or (not in_multiple and count > 1):
+                if (in_multiple and count > 2) or (not in_multiple and count > 1):
                     keep_word = False
                     break
 

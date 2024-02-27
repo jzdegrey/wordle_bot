@@ -129,4 +129,37 @@ def analyze_results(word: str, analytics: dict, word_date: str):
         "strategies": strategies
     })
 
+    _n = "\n"
+    _t = "\t"
+
+    print("\n***** Analytics Results *****")
+    print(
+        f"""Strategy with the shortest number of attempts: {best_attempts}
+Completed with {best_attempts_score} attempts.
+
+Strategy with greatest number of average reduced words per round: {best_reduced_words}
+Reduced {best_reduced_words_score} words on average per round.
+
+Strategy with shortest average time to generate a word per round: {best_time_to_generate_word_ns}
+Took {best_time_to_generate_word_ns_score} nanoseconds on average per round.
+
+
+***** Strategy Ranking *****
+{f"{_n}".join([f"{_i + 1}: {ranking[_i]}" for _i in range(len(ranking))])}
+
+
+***** Individual Strategy Game Completion Details *****
+{
+f"{_n}{_n}".join([
+    f"{strat}:"
+    f"{_n}{_t}{'Solved solution!' if strats.get('solved') else 'Unable to solve solution.'}"
+    f"{_n}{_t}Attempts: {strats.get('attempts')}"
+    f"{_n}{_t}Average reduced words: {strats.get('average_reduced_words')}"
+    f"{_n}{_t}Average time to generate word in nanoseconds: {strats.get('average_time_to_generate_word_ns')}"
+    for strat, strats in strategies.items()
+])
+}
+"""
+    )
+
     return analytics
