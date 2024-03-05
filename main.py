@@ -11,7 +11,7 @@ from components.record_analytics import record_analytics
 
 
 FIRST_GUESS = None  # this is used if there's a word you think is the best at reducing most of the words. Some algorithms won't use this
-AUTO_DELETE_WORD = True
+AUTO_DELETE_WORD = False
 PRINT_SOLUTIONS = False
 USE_SELENIUM = True
 SELENIUM_HEADLESS = True
@@ -19,6 +19,7 @@ SPECIFY_STRATEGY = False
 EXHIBITION = False
 ALLOWED_ATTEMPTS = 6
 RECORD_ANALYTICS = True
+HARD_MODE = False  # Forces strategies to adhere to Wordle's hard mode setting. (This does not set hard mode within Wordle itself
 
 
 def main():
@@ -36,11 +37,12 @@ def main():
     for strategy_name, strategy_class in strategies.items():
         try:
             strategy = strategy_class(
-                strategy_name,
-                ALLOWED_ATTEMPTS,
-                [_i for _i in solutions],
-                analytics,
-                FIRST_GUESS
+                name=strategy_name,
+                allowed_attempts=ALLOWED_ATTEMPTS,
+                solutions=[_i for _i in solutions],
+                analytics=analytics,
+                hard_mode=HARD_MODE,
+                suggested_first_word=FIRST_GUESS
             )
         except Exception as e:
             print(f"An error occurred while trying to run {strategy_name}. Error: {e}")

@@ -41,11 +41,13 @@ class Solution:
 class Strategy(ABC):
     _solution: Solution
     _solutions: list
+    __static_solutions: list = []  # copy of word list that never changes
     _vowels: list
     _attempts: list
     _analytics: dict
     __name: str
     __last_generated_time: float
+    __hard_mode: bool
 
     # Static class var
     _word_permutations = json.load(open(rf"{os.path.dirname(__file__)}\..\assets\word_permutations.json", "r"))
@@ -58,6 +60,7 @@ class Strategy(ABC):
             allowed_attempts: int,
             solutions: list[str],
             analytics: dict,
+            hard_mode: bool,
             suggested_first_word: str = None
     ):
         Strategy._allowed_attempts = allowed_attempts
@@ -66,10 +69,12 @@ class Strategy(ABC):
         self.__name = name
         self._solution = Solution()
         self._solutions = solutions
+        Strategy.__static_solutions = [_i for _i in solutions]  # create deep copy for static list.
         self._analytics = analytics
         self._vowels = ["a", "e", "i", "o", "u", "y"]
         self._attempts = []
         self.__last_generated_time = 0.0
+        self.__hard_mode = hard_mode
 
     # GETTERS -----------------------------------------------------------------------------------------------------------------------------------------------<
     @property
@@ -85,6 +90,10 @@ class Strategy(ABC):
     @property
     def solutions(self):
         return [_i for _i in self._solutions]
+
+    @property
+    def static_solutions(self):
+        return [_i for _i in self.__static_solutions]
 
     @property
     def vowels(self):
@@ -114,6 +123,10 @@ class Strategy(ABC):
     def analytics(self):
         return [_i for _i in self._attempts]
 
+    @property
+    def hard_mode(self):
+        return self.__hard_mode
+
     # ABSTRACT METHODS --------------------------------------------------------------------------------------------------------------------------------------<
     @abstractmethod
     def _generate_new_word(self) -> str: ...
@@ -124,7 +137,9 @@ class Strategy(ABC):
         word = self._generate_new_word()
         end = time_ns()
         self.__last_generated_time = end - start
-        self._solutions.pop(self._solutions.index(word))
+        if word in self._solutions: self._solutions.pop(self._solutions.index(word))
+        if self.hard_mode and word in self.__static_solutions:
+            self.__static_solutions.pop(self.__static_solutions.index(word))
         for char in word.lower():
             if char in self._vowels: self._vowels.pop(self._vowels.index(char))
 

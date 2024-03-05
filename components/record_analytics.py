@@ -11,7 +11,8 @@ def record_analytics(word: str, strategies: dict[str: Strategy], analytics: dict
             "solved": strategy.correctly_guessed,
             "exhibition": exhibition,
             "attempts": strategy.attempts,
-            "analytics": strategy.analytics
+            "analytics": strategy.analytics,
+            "hard_mode": strategy.hard_mode
         }
         for strategy_name, strategy in strategies.items()
     }
