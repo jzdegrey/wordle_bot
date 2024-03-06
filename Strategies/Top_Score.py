@@ -4,21 +4,8 @@ from Strategies.strategy_abc import Strategy
 
 
 class Top_Score(Strategy):
-    def __init__(
-            self,
-            name: str,
-            allowed_attempts: int,
-            solutions: list[str],
-            analytics: dict,
-            suggested_first_word: str = None
-    ):
-        super().__init__(
-            name,
-            allowed_attempts,
-            solutions,
-            analytics,
-            suggested_first_word
-        )
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
         self.__word_scores = self.__score_words()
 
     def __score_words(self):
