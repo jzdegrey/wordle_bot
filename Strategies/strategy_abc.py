@@ -173,7 +173,11 @@ class Strategy(ABC):
                 else:
                     self._solution.potentials.update({char: [i]})
 
-                if char in self._solution.solution or char in round_potentials.keys():
+                char_count = 0
+                for new_c in attempted_word:
+                    if new_c == char: char_count += 1
+
+                if (char in self._solution.solution and char_count > 1) or char in round_potentials.keys():
                     self._solution.multiples.update({char: None})
 
                 if char in self._solution.invalid_chars:
