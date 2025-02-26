@@ -46,6 +46,7 @@ def selenium_runner(strategy: Strategy, print_solutions=True, headless=False) ->
     strategy.print("Loading game...")
     browser, root = start_session(headless)
     try:
+        read_and_accept_new_terms(browser)
         press_play(browser)
         strategy.print("Game loaded.")
 

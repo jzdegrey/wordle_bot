@@ -24,6 +24,16 @@ def get_element(browser, by, predicate, time_out=30):
     return element
 
 
+def read_and_accept_new_terms(browser):
+    try:
+        continue_btn = get_element(browser, By.XPATH, '//button[text()="Continue"]', 2)
+        continue_btn.click()
+    except Exception:
+        pass  # ignore exception
+
+    return True
+
+
 def press_play(browser):
     play_button = get_element(browser, By.XPATH, "//button[@data-testid='Play']")
     play_button.click()
